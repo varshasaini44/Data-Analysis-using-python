@@ -1,2 +1,3 @@
 # Data-Analysis-using-python
-The Movie Rental Analytics project provides insights into movie rentals, revenue, customer behavior, and film categories. These queries facilitate informed decision-making for optimizing the movie rental business
+Demonstrated the versatility of Python by creating solutions for various scenarios .
+Developed a multi-functional programming project using basic python.
